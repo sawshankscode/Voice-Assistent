@@ -73,7 +73,7 @@ if __name__ == "__main__":
                 speak('He is pain in ass')
         
         elif 'raghav' in query:
-            speak('according to your son shubham, ragahv is a 20 year old shemale with a big butt hole')
+            speak('he is your friend')
                 
         elif 'who' in query:
             speak('Searching Wikipedia...')
@@ -122,4 +122,4 @@ if __name__ == "__main__":
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
-                speak("Sorry my friend shawshank bhai. I am not able to send this email")    
+                speak("Sorry . I am not able to send this email")    
